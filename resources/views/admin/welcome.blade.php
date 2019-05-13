@@ -1,4 +1,4 @@
-@extends('Admin.layouts.app')
+@extends('admin.layouts.app')
 
 @section('title')
     {{ trans('app.home') }}
@@ -10,7 +10,7 @@
 
 @section('content')
 
-
+<router-view></router-view>
 
 @endsection
 

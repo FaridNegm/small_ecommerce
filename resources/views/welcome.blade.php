@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Farid Negm
+                    Farid Negm 
                 </div>
 
                 <div class="links">
